@@ -2,6 +2,9 @@
 
 <img src="https://img.shields.io/static/v1?label=&message=Python&color=blueviolet" />  <img src="https://img.shields.io/static/v1?label=&message=Data%20Parsing&color=blue" /> <img src="https://img.shields.io/static/v1?label=&message=Price%20Parser&color=yellowgreen" /> 
 
+[![Oxylabs promo code](https://user-images.githubusercontent.com/129506779/250792357-8289e25e-9c36-4dc0-a5e2-2706db797bb5.png)](https://oxylabs.go2cloud.org/aff_c?offer_id=7&aff_id=877&url_id=112)
+
+
 This article covers everything you need to know about parsing prices in Python. By the end of this article, you will be able to extract price and currency from raw text, which is usually collected from external data sources like web pages or files.
 
 ## Table of Contents
